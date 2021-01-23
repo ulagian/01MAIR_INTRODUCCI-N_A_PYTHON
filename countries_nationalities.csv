@@ -6,7 +6,7 @@ Antigua and Barbuda;AG;ATG;28;Antiguan;Barbudan;
 Anguilla;AI;AIA;660;Anguillian;Anguillan;
 Albania;AL;ALB;8;Albanian;Alabanian;
 Armenia;AM;ARM;51;Armenian;Hayastani;
-Netherlands Antilles;AN;;;Dutch Antillean;Dutch;
+Netherlands Antilles;AN;;;Dutch Antillean;;
 Angola;AO;AGO;24;Angolan;;
 Antarctica;AQ;ATA;10;Antarctic;;
 Argentina;AR;ARG;32;Argentinean;Argentine;Argentinian
@@ -109,7 +109,7 @@ Ireland;IE;IRL;372;Irish;;
 Israel;IL;ISR;;Israeli;;
 Isle of Man;IM;IMN;833;Manx;;
 India;IN;IND;356;Indian;;
-British Indian Ocean Territory;IO;IOT;86;Indian;British;
+British Indian Ocean Territory;IO;IOT;86;Indian British;;
 Iraq;IQ;IRQ;368;Iraqi;;
 Iran;IR;IRN;364;Iranian;;
 Iceland;IS;ISL;352;Icelander;Icelandic;
@@ -153,7 +153,7 @@ Macedonia;MK;MKD;807;Macedonian;;
 Mali;ML;MLI;466;Malian;;
 Myanmar [Burma];MM;MMR;104;Myanmar;Myanmarese;Burmese
 Mongolia;MN;MNG;496;Mongolian;;
-Macau SAR China;MO;MAC;446;Macanese;Chinese;
+Macau SAR China;MO;MAC;446;Macanese;;
 Northern Mariana Islands;MP;MNP;580;Northern Mariana Islander;Northern Marianan;American
 Martinique;MQ;MTQ;474;Martinican;Martiniquaï¿;French
 Mauritania;MR;MRT;478;Mauritanian;;
@@ -229,7 +229,7 @@ Syria;SY;SYR;760;Syrian;;
 Swaziland;SZ;SWZ;748;Swazi;;
 Turks and Caicos Islands;TC;TCA;796;Turks and Caicos Island;Turks and Caicos Islander;
 Chad;TD;TCD;148;Chadian;;
-French Southern Territories;TF;ATF;260;French Southern Territories;French;
+French Southern Territories;TF;ATF;260;French Southern Territories;;
 Togo;TG;TGO;768;Togolese;;
 Thailand;TH;THA;764;Thai;;
 Tajikistan;TJ;TJK;762;Tadzhik;Tajikistani;
@@ -245,11 +245,11 @@ Taiwan;TW;TWN;158;Taiwanese;;
 Tanzania;TZ;TZA;834;Tanzanian;;
 Ukraine;UA;UKR;804;Ukrainian;;
 Uganda;UG;UGA;800;Ugandan;;
-U.S. Minor Outlying Islands;UM;UMI;581;United States Minor Outlying Islands;American;
+U.S. Minor Outlying Islands;UM;UMI;581;United States Minor Outlying Islands;;
 United States;US;USA;840;American;;
 Uruguay;UY;URY;858;Uruguayan;;
 Uzbekistan;UZ;UZB;860;Uzbekistani;;
-Vatican City;VA;VAT;336;Holy See;Italian;
+Vatican City;VA;VAT;336;Holy See;;
 Saint Vincent and the Grenadines;VC;VCT;670;Saint Vincentian;Vincentian;
 North Vietnam;VD;VDR;;North Vietnamese;;
 Venezuela;VE;VEN;862;Venezuelan;;
@@ -261,7 +261,7 @@ Wallis and Futuna;WF;WLF;876;Wallis and Futuna;Wallisian;Futunan
 Wake Island;WK;WAK;;;;
 Samoa;WS;WSM;882;Samoan;;
 Yemen;YE;YEM;887;Yemeni;Yemenese;
-Mayotte;YT;MYT;175;Mahoran;French;
+Mayotte;YT;MYT;175;Mahoran;;
 South Africa;ZA;ZAF;710;South African;;
 Zambia;ZM;ZMB;894;Zambian;;
 Zimbabwe;ZW;ZWE;716;Zimbabwean;;
