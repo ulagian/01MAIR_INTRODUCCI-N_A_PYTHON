@@ -1,4 +1,4 @@
-Country;Alpha-2;Alpha-3;Numeric-3;Demonym-1;Demonym-2;Denomyn-3
+Country;Alpha-2;Alpha-3;Numeric-3;Demonym-1;Demonym-2;Demonyn-3
 Andorra;AD;AND;20;Andorran;;
 United Arab Emirates;AE;ARE;784;Emirati;Emirian;
 Afghanistan;AF;AFG;4;Afghan;Afghani;
@@ -155,7 +155,7 @@ Myanmar [Burma];MM;MMR;104;Myanmar;Myanmarese;Burmese
 Mongolia;MN;MNG;496;Mongolian;;
 Macau SAR China;MO;MAC;446;Macanese;Chinese;
 Northern Mariana Islands;MP;MNP;580;Northern Mariana Islander;Northern Marianan;American
-Martinique;MQ;MTQ;474;Martinican;Martiniqua�;French
+Martinique;MQ;MTQ;474;Martinican;Martiniquaï¿;French
 Mauritania;MR;MRT;478;Mauritanian;;
 Montserrat;MS;MSR;500;Montserratian;;
 Malta;MT;MLT;470;Maltese;;
